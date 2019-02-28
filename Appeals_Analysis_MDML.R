@@ -1,3 +1,4 @@
+# Authors: Andrea Hassler, Jui Arvind Nerurkar, Emmanuel Bazov
 # Load libraries
 library(tidyverse)
 library(tidytext)
